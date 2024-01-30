@@ -1,0 +1,44 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore npm debug log
+npm-debug.log
+
+# Ignore .env files, which often contain sensitive information
+.env
+
+# Ignore local configuration files
+config/local.json
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore user-specific files
+Thumbs.db
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Jest coverage directory
+coverage/
+
+# Ignore built TypeScript files
+dist/
+
+# Ignore yarn.lock file for Yarn package manager
+yarn.lock
+package-lock.json
+
+# Ignore .idea directory for JetBrains IDEs
+.idea/
+
+# Ignore logs
+logs/
+*.log*
+npm-debug.log*
+
+# Ignore error reports
+reports/
